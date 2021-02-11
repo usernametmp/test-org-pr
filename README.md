@@ -1,2 +1,2 @@
 # test-org-pr
-Test PR from org
+Test PR from organization profile
